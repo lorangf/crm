@@ -1,0 +1,29 @@
+{
+  "name": "crm",
+  "version": "1.0.0",
+  "description": "A set of CRM CRUD operations for node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorangf/crm.git"
+  },
+  "author": "Frederic Loranger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lorangf/crm/issues"
+  },
+  "homepage": "https://github.com/lorangf/crm#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "nodemon": "^1.14.11"
+  }
+}
